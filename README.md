@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a medical physicist, assistant professor, and Director of AI at the University of Pennslyvania in the Department of Radiation Oncology.
+I'm a Medical Physicist, Assistant Professor, and Director of Artificial Intelligence at the University of Pennslyvania in the Department of Radiation Oncology.
 
 🔭 I'm currently working on many projects focused on bringing Artificial Intelligence into the clinic
 
